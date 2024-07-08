@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.side-nav{
+    width: 20%;
+    height: calc(100vh - 100px);
+}
+
+.home-section{
+    width: 80%;
+    height: calc(100vh - 100px);
+}

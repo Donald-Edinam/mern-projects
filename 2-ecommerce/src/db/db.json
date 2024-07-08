@@ -1,0 +1,63 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Electronics",
+            "description": "Devices and gadgets"
+        },
+        {
+            "id": 2,
+            "name": "Books",
+            "description": "Books across various genres"
+        },
+        {
+            "id": 3,
+            "name": "Clothing",
+            "description": "Apparel for men, women, and children"
+        }
+    ],
+    "products": [
+        {
+            "id": 101,
+            "name": "Smartphone",
+            "description": "Latest model smartphone with advanced features",
+            "price": 699.99,
+            "category_id": 1
+        },
+        {
+            "id": 102,
+            "name": "Laptop",
+            "description": "High-performance laptop for gaming and work",
+            "price": 1299.99,
+            "category_id": 1
+        },
+        {
+            "id": 103,
+            "name": "Novel - Fiction",
+            "description": "Bestselling fiction novel",
+            "price": 19.99,
+            "category_id": 2
+        },
+        {
+            "id": 104,
+            "name": "Children's Book",
+            "description": "Illustrated book for children",
+            "price": 9.99,
+            "category_id": 2
+        },
+        {
+            "id": 105,
+            "name": "Men's T-Shirt",
+            "description": "100% cotton t-shirt for men",
+            "price": 15.99,
+            "category_id": 3
+        },
+        {
+            "id": 106,
+            "name": "Women's Dress",
+            "description": "Elegant evening dress",
+            "price": 49.99,
+            "category_id": 3
+        }
+    ]
+}
